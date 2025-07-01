@@ -1,5 +1,5 @@
 # The Art of Theft
-A terminal-based art heist simulation game where players build their criminal reputation through strategic museum thefts. Built in C as a learning project to explore game mechanics, decision trees, risk/reward systems, and atmospheric narrative design.
+A terminal-based art heist simulation game where players build their criminal reputation through strategic museum thefts. Built in C as a learning project to explore game mechanics, decision trees, risk/reward systems, and atmospheric narrative design. Inspired by the book "The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession" by Michael Finkel.
 
 ## Features
 **Core Gameplay**
@@ -24,8 +24,8 @@ art-heist-game/
 
 ## Installation & Usage
 ```bash
-gcc -o art_heist art_heist.c
-./art_heist
+gcc -o art_thief art-thief.c
+./art_thief
 ```
 
 ## Game Mechanics
