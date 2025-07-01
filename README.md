@@ -17,8 +17,8 @@ A terminal-based art heist simulation game where players build their criminal re
 
 ## Project Structure
 ```
-art-heist-game/
-├── art_heist.c         # Main game logic and mechanics
+art-thief/
+├── art-thief.c         # Main game logic and mechanics
 └── README.md           # This documentation
 ```
 
